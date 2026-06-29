@@ -16,10 +16,10 @@ Most of my work is hands-on: building AI agents, operational workflows, and know
 - Knowledge systems using Obsidian, Linear, Telegram, and LLMs
 - Human-AI workflows that improve decision-making and execution
 
-<h3> About Me </h3>
+<h2> About Me </h2>
 
 **Product Manager** with hands-on experience building products and operational platforms across cross-border payments, online banking, e-commerce, CRM, and enterprise operations.
 
-<h3> Looking For </h3>
+<h3>  </h3>
 
-**🌱 Senior Product, AI Product, or AI Transformation opportunities, and conversations with people building practical AI for real business operations.**
+**🌱 Looking For - Senior Product, AI Product, or AI Transformation opportunities, and conversations with people building practical AI for real business operations.**
